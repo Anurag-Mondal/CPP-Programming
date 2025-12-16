@@ -1,0 +1,4 @@
+This folder contains all the basic syntaxes of c++ which
+are essential to start DSA in C++. For detailed notes see
+"C Programming" folder.
+Repo link - https://github.com/Anurag-Mondal/C-Programming/
