@@ -10,4 +10,4 @@ int main () {
     // cin >> s3;                  // Only first word will be taken as input
     getline (cin,s3);   // Now entire string will be taken as input
     cout << s3 << endl;
-} 
+}
